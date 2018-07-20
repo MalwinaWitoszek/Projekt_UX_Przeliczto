@@ -1,0 +1,49 @@
+http://www.algorytm.org/przetwarzanie-dat/wyznaczanie-dnia-tygodnia.html  -  wyznaczanie dnia tygodnia
+https://zapytaj.onet.pl/Category/006,003/2,24095135,Jak_obliczac_skale.html   , http://p-toklowicz.republika.pl/skala_def.html  -  skala mapy
+zdjêcie .jpg   -  zamiania jednostek dla skali
+http://www.math.edu.pl/srednia-arytmetyczna      - œrednia arytmetyczna
+https://www.bmi-kalkulator.pl/obliczanie,  https://www.bmi-kalkulator.pl/dzieci,  https://www.bmi-kalkulator.pl/nastolatki  -  obliczanie BMI
+https://pl.wikipedia.org/wiki/Skala_Fahrenheita,  https://pl.wikipedia.org/wiki/Kelwin    -  temperatura
+http://www.ksiegowoscspolki.pl/jak-obliczac-vat-cene-netto-i-brutto-brutto-od-netto-i-netto-od-brutto-vat-od-pojedynczej-sztuki-czy-od-sumy/       -VAT
+https://pl.wikipedia.org/wiki/Procent    - procent
+https://pl.wikipedia.org/wiki/Jednostki_miar_stosowane_w_gospodarstwie_domowym    - wagi
+http://www.infor.pl/kalkulatory/odleglosc.html#form
+http://www.algorytm.org/inne/algorytm-hoarea.html
+http://www.infor.pl/kalkulatory/odleglosc.html#form
+https://www.topster.pl/kalendarz/wochentag.php?tag=21&monat=4&jahr=1982
+http://www.poradnikzdrowie.pl/sprawdz-sie/kalkulatory/kalkulator-wagi-bmi/#oblicz
+http://ekalk.eu/index_pl.html
+http://kalkulator.jednostek.pl/powierzchni
+http://calculla.pl/
+http://www.obliczanieprocentow.pl/Kalkulator-Procentowy.html
+https://www.calculat.org/pl/srednia/srednia-arytmetyczna.html
+http://calcoolator.pl/kalkulatory-matematyczne.html
+http://www.naukowiec.org/kalkulatory/obliczanie-skali.html
+https://www.bmi-kalkulator.pl/
+http://chemfan.pg.gda.pl/kalkulatory/temperatury.html
+
+
+http://www.kurshtml.edu.pl/css/gradient_liniowy,tlo.html   - p³ynne przejœcie koloru w kolor
+
+https://openclipart.org/tags/dollar%20sign   - znaki dolara
+https://pl.icons8.com/icon/set/symbol-matematyczny/all    znaki procent
+
+
+http://just-dance-fanmade.wikia.com/wiki/File:Epic-Wallpaper-Free-Download-Desktop-Background-for-Epic-Wallpaper.jpg    t³o do podstrony
+
+
+https://pl.fonts2u.com/pocket-calculator.czcionka   czcionka jak w kalkulorze
+
+http://blog.eduweb.pl/rozmiar-strony-www/
+
+https://www.uxpin.com/studio/blog/interactive-prototype-setting-user-interactions-without-coding/
+https://www.uxpin.com/community/tutorials/hotspot/
+
+https://www.youtube.com/watch?v=Z3Hmcx4Zm1A
+-----------------------------------------------------------------------------
+analiza i pomys³:
+https://projects.invisionapp.com/boards/ST3DQ3F8XDJMZ/
+-----------------------------------------------------------------------------
+prototyp:
+https://preview.uxpin.com/bd76d50e1dc53c5e156c241dd0d31d1e13899804#/pages/75959792/simulate/no-panels?mode=i
+
